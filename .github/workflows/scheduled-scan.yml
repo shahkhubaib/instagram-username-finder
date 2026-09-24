@@ -16,7 +16,7 @@ on:
         default: "4"
       charset:
         description: "letters | digits | letters_digits | instagram"
-        default: "letters"
+        default: "letters_digits"
       max_checks:
         description: "Hard cap on usernames checked in this run"
         default: "456976"
