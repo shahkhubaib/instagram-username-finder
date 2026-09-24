@@ -19,7 +19,7 @@ on:
         default: "letters"
       max_checks:
         description: "Hard cap on usernames checked in this run"
-        default: "500"
+        default: "456976"
       time_limit:
         description: "Hard cap in seconds for this run"
         default: "900"
