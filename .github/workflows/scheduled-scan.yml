@@ -22,7 +22,7 @@ on:
         default: "456976"
       time_limit:
         description: "Hard cap in seconds for this run"
-        default: "900"
+        default: "100"
       fresh:
         description: "Discard saved state and start over"
         type: boolean
